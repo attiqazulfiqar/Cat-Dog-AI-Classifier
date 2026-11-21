@@ -1,0 +1,58 @@
+# Cat & Dog Image Classification
+
+## About the Project
+
+This is my Artificial Intelligence project, in which I trained a model to identify cats and dogs from images using Google Teachable Machine.
+
+I created two classes, Cat and Dog, and uploaded different images to train the model. After training, I tested it with new images to see how accurately it could recognize each category.
+
+## Project Objectives
+
+- To learn the basics of Artificial Intelligence and Machine Learning.
+- To understand how image classification works.
+- To train an AI model using cat and dog images.
+- To test the model with different images.
+
+## Tools & Technologies
+
+- Google Teachable Machine
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- TensorFlow.js
+- GitHub
+
+## Project Classes
+
+**Class 1: Cat**
+
+The model is trained using different cat images.
+
+**Class 2: Dog**
+
+The model is trained using different dog images.
+
+## How I Created This Project
+
+1. Opened Google Teachable Machine.
+2. Selected the Image Project option.
+3. Created two classes: Cat and Dog.
+4. Uploaded images for both classes.
+5. Trained the model.
+6. Tested the model using new images.
+7. Exported the trained model and uploaded its files to GitHub.
+
+## Model Files
+
+- `model.json`
+- `metadata.json`
+- `weights.bin`
+
+## Future Improvements
+
+In the future, I would like to improve this project by adding a simple web interface where users can upload an image and get an AI prediction.
+
+
+
+---
+
+*This project helped me understand the practical use of Artificial Intelligence and image classification.*
